@@ -17,7 +17,7 @@ A hackathon project proposal for an AI-powered chatbot that assists users in **l
 4️⃣ Computes credit score & loan eligibility.
 5️⃣ Suggests loan options & next steps.
 
-# 2. SmartAttendanceSystem 
+# 2. Smart Attendance System 
 
 ### Coded in Python, includes seamless integration with Amazon Rekognition, Amazon S3, and AWS Lambda. Utilises a Raspberry Pi to capture real-time attendance. 
 
